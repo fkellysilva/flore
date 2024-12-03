@@ -1,0 +1,62 @@
+{
+  "version": 3,
+  "middleware": {
+    "/": {
+      "files": [
+        "server/edge/chunks/_ee19d7._.js",
+        "server/edge/chunks/[root of the server]__39c2b3._.js",
+        "server/edge/chunks/edge-wrapper_13b0ad.js"
+      ],
+      "name": "middleware",
+      "page": "/",
+      "matchers": [
+        {
+          "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?(?:\\/(\\/?index|\\/?index\\\\.json))?[\\/#\\?]?$",
+          "originalSource": "/"
+        },
+        {
+          "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?(?:\\/(pt|en))(?:\\/((?:[^\\/#\\?]+?)(?:\\/(?:[^\\/#\\?]+?))*))?(\\\\.json)?[\\/#\\?]?$",
+          "originalSource": "/(pt|en)/:path*"
+        }
+      ],
+      "wasm": [],
+      "assets": [
+        {
+          "name": "server/edge/chunks/_ee19d7._.js.map",
+          "filePath": "server/edge/chunks/_ee19d7._.js.map"
+        },
+        {
+          "name": "server/edge/chunks/_ee19d7._.js",
+          "filePath": "server/edge/chunks/_ee19d7._.js"
+        },
+        {
+          "name": "server/edge/chunks/[root of the server]__39c2b3._.js.map",
+          "filePath": "server/edge/chunks/[root of the server]__39c2b3._.js.map"
+        },
+        {
+          "name": "server/edge/chunks/[root of the server]__39c2b3._.js",
+          "filePath": "server/edge/chunks/[root of the server]__39c2b3._.js"
+        },
+        {
+          "name": "server/edge/chunks/edge-wrapper_13b0ad.js.map",
+          "filePath": "server/edge/chunks/edge-wrapper_13b0ad.js.map"
+        },
+        {
+          "name": "server/edge/chunks/edge-wrapper_13b0ad.js",
+          "filePath": "server/edge/chunks/edge-wrapper_13b0ad.js"
+        }
+      ],
+      "env": {
+        "__NEXT_BUILD_ID": "development",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "Sa2qAYFC0clyQgF83mlpDg+tqLXVxmMwv072frwwGnQ=",
+        "__NEXT_PREVIEW_MODE_ID": "55795500ebb956b4030dc6f4acb4cc07",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "8d586d649f3201c6f657e06df0b002db7910dcfdb0a17f79a9d1e1bc71ae2453",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "2a79224e8bee466e200b2ee3218a53df866f2803e9f65b6962cd96c5801722e9"
+      }
+    }
+  },
+  "sortedMiddleware": [
+    "/"
+  ],
+  "functions": {}
+}
