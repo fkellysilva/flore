@@ -1,0 +1,104 @@
+{
+  "Navigation": {
+    "catalog": {
+      "label": "Catalog"
+    },
+    "delivery": {
+      "label": "Delivery"
+    },
+    "offers": {
+      "label": "Offers"
+    },
+    "new_arrivals": {
+      "label": "New Arrivals"
+    },
+    "signup": {
+      "label": "Sign Up!"
+    },
+    "login": {
+      "label": "Log in"
+    },
+    "search": "Search"
+  },
+  "Home": {
+    "title": "EXPLORE OUR CATALOG.",
+    "description": "Discover a vibrant and exotic world at Floré Floricultura, your store specializing in tropical flowers! Here, each petal tells a story and each arrangement is a celebration of nature. We offer a unique selection of colorful flowers, such as orchids, hibiscus and anthuriums, which bring a touch of freshness and joy to any environment.",
+    "action": "See more"
+  },
+  "Offers": {
+    "title": "Offers",
+    "view_more": "See more"
+  },
+  "TopPicks": {
+    "title": "Top Picks",
+    "view_more": "See more"
+  },
+  "Footer": {
+    "copywright": "All rights reserved",
+    "footer_note": "Exotic flowers that transport you to a tropical paradise, without leaving home.",
+    "company": {
+      "label": "COMPANY"
+    },
+    "help": {
+      "label": "HELP"
+    },
+    "legal": {
+      "label": "LEGAL"
+    },
+    "faq": {
+      "label": "FAQ"
+    }
+  },
+  "CTA": {
+    "title": "STAY UP TO DATE ON OUR LATEST OFFERS",
+    "Email": "Tell us your email"
+  },
+  "Rating": {
+    "title": "RATING FROM OUR CUSTOMERS"
+  },
+  "Gallery": {
+    "title": "Search by category",
+    "exotic": "Exotic",
+    "perfumed": "Perfumed",
+    "romantic": "Romantic",
+    "rustic": "Rustic"
+  },
+  "Cart": {
+    "your_cart": "Your Cart",
+    "product": "Product",
+    "total": "Total",
+    "quantity": "Quantity",
+    "estimated_total": "Estimated Total",
+    "taxes": "Taxes, discounts and shipping calculated at checkout",
+    "checkout": "Check out",
+    "remove": "Remove",
+    "empty_cart": "Your cart is empty"
+  },
+  "Signup": {
+    "title": "Sign Up",
+    "full_name": "Full Name",
+    "placeholder_full_name": "John Doe",
+    "email": "Email",
+    "placeholder_email": "john@example.com",
+    "password": "Password",
+    "birthday": "Birthday",
+    "genre": "Genre",
+    "male": "Male",
+    "female": "Female",
+    "other": "Prefer not to say",
+    "terms_1": "I agree to the",
+    "terms_2": "terms and conditions",
+    "signup": "Sign Up",
+    "already_signed_up": "Already signed up?",
+    "login": "Log in"
+  },
+  "Signin": {
+    "title": "Log in",
+    "email": "Email",
+    "placeholder_email": "john@example.com",
+    "password": "Password",
+    "login": "Log in",
+    "dont_have_account": "Don't have an account?",
+    "signup": "Sign Up"
+  }
+}
