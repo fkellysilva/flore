@@ -23,9 +23,9 @@ export function TopBar() {
   };
 
   return (
-    <div className="px-4 md:px-0 w-full h-9 bg-primary dark:bg-primary">
+    <div className="md:px-0 w-full h-9 bg-primary dark:bg-primary">
       <Container className="mx-auto flex justify-between">
-        <Button onClick={toggleTheme} className="h-9">
+        <Button onClick={toggleTheme} className="h-9 p-0">
           <Sun className="h-8 w-[1.2rem] text-white rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0" />
           <Moon className="absolute h-8 w-[1.2rem] rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100" />
         </Button>

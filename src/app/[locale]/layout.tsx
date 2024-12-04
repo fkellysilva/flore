@@ -10,6 +10,7 @@ import Footer from "@/components/footer";
 import { Toaster } from "@/components/ui/sonner";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
+import { Chatbot } from "@/components/chatbot";
 
 const afacad = Afacad({
   subsets: ["latin"],
@@ -50,6 +51,7 @@ export default async function RootLayout({
             {children}
             <Toaster position="bottom-center" richColors />
           </body>
+          <Chatbot />
           <Footer />
         </NextIntlClientProvider>
       </ThemeProvider>

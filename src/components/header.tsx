@@ -190,6 +190,8 @@ export function Header() {
         </div>
 
         <div className="block md:hidden">
+          <ShoppingBagMenu title={t("Cart.your_cart")} />
+
           <MobileMenu>
             <div className="w-full flex flex-col">
               <h1 className="font-afacad font-black text-white text-center text-[36px]">
